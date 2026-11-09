@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.kostku.app-debug-39:/layout_layout_logo_header.xml.flat",
+        "source": "com.example.kostku.app-main-41:/layout/layout_logo_header.xml"
+    },
+    {
+        "merged": "com.example.kostku.app-debug-39:/layout_activity_register.xml.flat",
+        "source": "com.example.kostku.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo T14\\.gradle\\daemon\\9.5.0\\com.example.kostku.app-debug-39:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Lenovo T14\\.gradle\\daemon\\9.5.0\\com.example.kostku.app-main-41:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo T14\\.gradle\\daemon\\9.5.0\\com.example.kostku.app-debug-39:\\drawable_ic_kostku_logo.xml.flat",
+        "source": "C:\\Users\\Lenovo T14\\.gradle\\daemon\\9.5.0\\com.example.kostku.app-main-41:\\drawable\\ic_kostku_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo T14\\.gradle\\daemon\\9.5.0\\com.example.kostku.app-debug-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo T14\\.gradle\\daemon\\9.5.0\\com.example.kostku.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo T14\\.gradle\\daemon\\9.5.0\\com.example.kostku.app-debug-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo T14\\.gradle\\daemon\\9.5.0\\com.example.kostku.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.kostku.app-debug-39:/layout_activity_login.xml.flat",
+        "source": "com.example.kostku.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.kostku.app-debug-39:/layout_activity_resident_login.xml.flat",
+        "source": "com.example.kostku.app-main-41:/layout/activity_resident_login.xml"
+    },
+    {
+        "merged": "com.example.kostku.app-debug-39:/layout_activity_onboarding.xml.flat",
+        "source": "com.example.kostku.app-main-41:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.example.kostku.app-debug-39:/layout_activity_role_selection.xml.flat",
+        "source": "com.example.kostku.app-main-41:/layout/activity_role_selection.xml"
+    },
+    {
+        "merged": "com.example.kostku.app-debug-39:/drawable_bg_edit_text.xml.flat",
+        "source": "com.example.kostku.app-main-41:/drawable/bg_edit_text.xml"
+    },
+    {
+        "merged": "com.example.kostku.app-debug-39:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.kostku.app-main-41:/layout/activity_dashboard.xml"
+    }
+]
